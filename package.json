@@ -1,5 +1,5 @@
 {
-  "name": "random-str-msg",
+  "name": "random-str-msgss",
   "version": "1.1.0",
   "description": "Random String Messages",
   "main": "index.js",
@@ -22,6 +22,6 @@
   },
   "preferGlobal": true,
   "dependencies": {
-    "random-str-msgss": "^1.0.0"
+    "random-str-msgss": "^1.1.0"
   }
 }
