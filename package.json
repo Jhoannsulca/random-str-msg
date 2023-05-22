@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Jhoannsulca/random-str-msgss#readme",
   "bin": {
-    "random-str-msg": "./bin/global.js"
+    "random-str-msgss": "./bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
