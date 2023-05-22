@@ -8,17 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/random-str-msg.git"
+    "url": "https://github.com/Jhoannsulca/random-str-msgss.git"
   },
   "keywords": [],
-  "author": "Oscar Barajas <oscar@platzi.com>",
+  "author": "Jhoann Sulca <Ga@platzi.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/random-str-msg/issues"
+    "url": "https://github.com/Jhoannsulca/random-str-msgss/issues"
   },
-  "homepage": "https://github.com/gndx/random-str-msg#readme",
+  "homepage": "https://github.com/Jhoannsulca/random-str-msgss#readme",
   "bin": {
     "random-str-msg": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "random-str-msgss": "^1.0.0"
+  }
 }
